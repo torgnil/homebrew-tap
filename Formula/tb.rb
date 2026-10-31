@@ -1,8 +1,8 @@
 class Tb < Formula
   desc "Self-hosted LLVM-based programming language"
   homepage "https://github.com/torgnil/tb"
-  url "https://github.com/torgnil/tb/releases/download/v0.2.1/tb-0.2.1-macos-arm64.zip"
-  sha256 "42f2d1d66315ff344db7e132c1cda693b22dcdefb0d282e2a6283988d4c7bfe7"
+  url "https://github.com/torgnil/tb/releases/download/v0.2.2/tb-0.2.2-macos-arm64.zip"
+  sha256 "c12957982f142804dbb45b755dc8f23ad575d8ccec865dc30dfe667f46417281"
   license "Apache-2.0"
 
   depends_on :macos
